@@ -1,6 +1,6 @@
-# cursor-skills
+# AI Skill Template
 
-這是用來管理 Cursor Skills 的專案。
+這是用來作為 AI Skill 的模板專案。
 
 ## 專案結構
 
@@ -11,4 +11,4 @@
 
 1. 複製 `skills/example-skill/` 為新目錄
 2. 修改 `SKILL.md` 的用途與操作步驟
-3. 在 Cursor 中載入並測試
+3. 在 AI agent 中載入並測試
